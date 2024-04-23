@@ -6,6 +6,8 @@ IceSlider is the main class with the main method.
 MapParser is the class is the one that reads txt file and identify the data.
 ShortestPath is the class that contains algorithm to find the shortest path.
 
+GitHub Repo : https://github.com/vish-mv/IceSliderPath.git
+
 Author : Visal Vitharana
 UoW ID : w1954048
 IIT ID : 20221302
